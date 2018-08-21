@@ -1,7 +1,7 @@
-public class MultiPurposeCopier extends{
+public class MultiPurposeCopier extends Copier{
 
     // コピー機の機能
-    public Paper copy(Paper origin)
+    public Paper copy(Paper origin){}
     /*
     // スキャナの機能
     public Document scan(Paper document)
